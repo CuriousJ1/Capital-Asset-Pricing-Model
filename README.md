@@ -26,4 +26,4 @@ Matplotlib: A Python library integrating matplot for visualization.
 
 SeaBorn: Another higher level Python library for visualization.
 
-YahooFinance: API used to access labeled financial data,
+YahooFinance: API used to access labeled financial data.
