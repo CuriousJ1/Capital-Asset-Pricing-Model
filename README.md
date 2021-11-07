@@ -2,15 +2,18 @@
 
 ## Introduction
 
-In this project, we use the capital asset pricing model to value Apple inc between the year 2006 to 2016.
+In this project, we use the capital asset pricing model to value Apple between the years 2006 to 2016.
 
     E(R_{i}) = R_{f}+\beta_{i}(E(R_{m})-R_{f})
 
 This time series includes the global financial crisis, which occured in 2009.
 
-We also use SPDR S&P 500 trust (SPY ETF) which is designed to track the S&P 500 stock market index as the market portfolio.
+We also use SPDR S&P 500 trust (SPY ETF) as the market, as it is designed to track the S&P 500 stock market index.
+
+Based on the results, interpretations or insights were made about the dataset.
 
 The code is based on my own exploration of Python's functionalities, libraries and YahooFinance API.
+
 
 ## Technologies
 
