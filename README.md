@@ -2,7 +2,7 @@
 
 ## Introduction
 
-In this project, we use the capital asset pricing model to value Apple between the years 2006 to 2016.
+In this project, we use the capital asset pricing model to value Apple between the years of 2006 to 2016.
 
     E(R_{i}) = R_{f}+\beta_{i}(E(R_{m})-R_{f})
 
